@@ -1,3 +1,11 @@
+# Lingo App wiki
+## This is a wiki for various language learning apps.
+
+We would appreciate active contributors. If you could help, please visit [our GH discussions](https://github.com/wiki-host/LingoApp-wiki/discussions "LingoApp Wiki Discussions") or our [our GH repo](https://github.com/wiki-host/LingoApp-wiki "Our GitHub Repository").
+We will have posts in the future.
+
+
+# this is the description of this wiki's base
 # git-wiki-skeleton
 
 NOTE: it's fully supported by github platform, you don't need to install anything locally
